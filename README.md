@@ -50,7 +50,7 @@ Hover lift, glowing pulses, and fluid transitions powered by Framer Motion.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="[https://i.ibb.co/7k1h2Lw/assignly-mockup.png](https://i.ibb.co/PzGD9yVB/Screenshot-2025-09-03-203130.png)" alt="Assingly Dashboard" width="400"/>
+  <img src="https://i.ibb.co/PzGD9yVB/Screenshot-2025-09-03-203130.png" alt="Assingly Dashboard" width="400"/>
 </p>
 
 ---
